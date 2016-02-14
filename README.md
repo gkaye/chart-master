@@ -15,7 +15,7 @@ Down arrow: Predict down
 Space:      Skip or next
 <br />
 ####Examples:
-![alt tag](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture.PNG)
-![alt tag](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture2.PNG)
-![alt tag](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture3.PNG)
-![alt tag](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture4.PNG)
+![c1](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture.PNG)
+![c2](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture2.PNG)
+![c3](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture3.PNG)
+![c4](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture4.PNG)
