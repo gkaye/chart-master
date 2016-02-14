@@ -8,11 +8,11 @@ Chart Master is designed such that you make your prediction x candles in the fut
 <br />
 Shortcut keys:
 <br />
-Up arrow:<t/><t/>Predict up
+Up arrow:   Predict up
 <br />
-Down arrow:<t/><t/>Predict down
+Down arrow: Predict down
 <br />
-Space:<t/><t/>Skip or next
+Space:      Skip or next
 <br />
 ####Examples:
 ![alt tag](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture.PNG)
