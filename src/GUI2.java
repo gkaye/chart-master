@@ -70,7 +70,7 @@ public class GUI2 {
 	private void initialize() {
 		frame = new JFrame();
 		frame.getContentPane().setLayout(new BorderLayout());
-		frame.setTitle("Candle Alchemist");
+		frame.setTitle("Candle Master");
 		frame.getContentPane().setBackground(Color.BLACK);
 		frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
 		frame.setSize(Toolkit.getDefaultToolkit().getScreenSize());
