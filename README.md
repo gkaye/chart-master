@@ -12,7 +12,7 @@ Up arrow:     Predict up
 <br />
 Down arrow:   Predict down
 <br />
-Right arrow:  Skip
+Right arrow:  Skip or next
 <br />
 Space:        Next
 <br />
