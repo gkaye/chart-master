@@ -1,5 +1,5 @@
 ## Chart Master
-Chart Master is a java program designed to test your ability to read stock charts.  Developed with eclipse.
+Chart Master is a java program designed to test your ability to read stock charts.
 
 
 ####How to use:
@@ -8,13 +8,13 @@ Chart Master is designed such that you make your prediction x candles in the fut
 <br />
 Shortcut keys:
 <br />
-Up arrow:     Predict up
+  Up arrow:     Predict up
 <br />
-Down arrow:   Predict down
+  Down arrow:   Predict down
 <br />
-Right arrow:  Skip or next
+  Right arrow:  Skip or next
 <br />
-Space:        Next
+  Space:        Next
 <br />
 ####Examples:
 ![c1](https://github.com/gkaye/Chart-Master/blob/master/example%20pictures/Capture.PNG)
