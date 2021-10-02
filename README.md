@@ -1,5 +1,5 @@
 ## Chart Master
-_**Please bear in mind that I made this project ~8 years ago, I just didn't have the heard to delete it.**_  Chart Master is a java program designed to test your ability to read stock charts.
+_**Please bear in mind that I made this project ~8 years ago**_  Chart Master is a java program designed to test your ability to read stock charts.
 
 #### How to use:
 A pre-compiled jar file has been uploaded for convenience, along with a sample stock data file called "sample.csv".  Find it in the "running example" folder.  When asked for a file, simply select "sample.csv". This file is a sample, and as such repeats the same information over and over again.  Expect to see the same situation more than once.
